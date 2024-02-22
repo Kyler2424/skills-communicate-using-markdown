@@ -7,3 +7,7 @@
 ```javascript
 String Greeting = "Good evening.";
 ```
+
+- [X] Take out the trash
+- [ ] Wash the dishes
+- [ ] Do the laundry
